@@ -1,7 +1,7 @@
 {
-	"create MIT LICENSE": {
+	"oxiran: Create MIT LICENSE": {
 		"scope": "",
-		"prefix": "cmit",
+		"prefix": "mit",
 		"body": [
 			"MIT License\n",
 			"Copyright (c) 2022-present${1} oxiran\n",
@@ -23,9 +23,9 @@
 		]
 	},
 
-	"create MIT editorconfig": {
+	"oxiran: Create editorconfig json": {
 		"scope": "",
-		"prefix": "ceditorconfig",
+		"prefix": "editorconfig",
 		"body": [
 			"# EditorConfig is awesome: http://EditorConfig.org\n",
 			"# top-most EditorConfig file",
