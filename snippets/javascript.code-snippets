@@ -1,0 +1,19 @@
+{
+	"oxiran: Create for loop": {
+		"scope": "javascript,typescript,html,vue",
+		"prefix": "for",
+		"body": [
+      "for (let i = 0; i < ${1}.length; i += 1) {",
+      "  ${2}",
+      "}"
+		]
+	},
+
+	"oxiran: Create arrow function": {
+		"scope": "javascript,typescript,html,vue",
+		"prefix": "arrow",
+		"body": [
+      "(${1}) => {${2}}"
+		]
+	}
+}
