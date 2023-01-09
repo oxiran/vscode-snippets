@@ -15,5 +15,21 @@
 		"body": [
       "(${1}) => {${2}}"
 		]
-	}
+	},
+
+  "oxiran: moudle.exports": {
+    "scope": "javascript,typescript,html,vue",
+    "prefix": "module",
+    "body": [
+      "module.exports = ${1}"
+    ]
+  },
+
+  "oxiran: export default": {
+    "scope": "javascript,typescript,html,vue",
+    "prefix": "export",
+    "body": [
+      "export default ${1}"
+    ]
+  },
 }
