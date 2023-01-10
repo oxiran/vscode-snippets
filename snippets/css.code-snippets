@@ -1,0 +1,11 @@
+{
+	"oxiran: Text ellipsis": {
+		"scope": "css,less,sass,scss,vue",
+		"prefix": "text-ellipsis",
+		"body": [
+      "white-space: nowrap;",
+      "overflow: hidden;",
+      "text-overflow: ellipsis;",
+    ],
+	},
+}
